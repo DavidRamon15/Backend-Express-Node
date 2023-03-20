@@ -12,8 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "codehooks-js": "^1.0.8",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "express-validator": "^6.15.0"
+    "express-validator": "^6.15.0",
+    "node-fetch": "^3.3.1"
   }
 }
